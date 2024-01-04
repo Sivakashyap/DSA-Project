@@ -16,11 +16,11 @@ Edit train details:
   Add a new train, delete an existing train, or exit the train edit menu.
 
 
-Train Structure
+Train Structure:
 The program uses a TRAIN structure to store train information, including train number, name, start station, end station, departure time, and arrival time. 
 The time is represented using a TIME structure with hour and minute fields.
 
-Train Edit Menu
+Train Edit Menu:
 The train edit menu allows users to add a new train, delete an existing train, or exit the menu.
 
 The program uses a continuous loop for the main menu until the user chooses to exit.
